@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postgraduate student from [[School of Computer Science](http://www.cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn). My research interest includes edge computing, and edge intelligence.
+I'm a postgraduate student from [School of Computer Science](http://www.cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn). My research interest includes edge computing, and edge intelligence.
 
